@@ -1,1 +1,2 @@
-# task-2
+This project focuses on creating a machine learning system for customer segmentation based on purchasing behavior using the K-Means Clustering algorithm in Python. Customer segmentation helps businesses understand different groups within their customer base by analyzing patterns in their buying behavior. By applying K-Means Clustering, we can identify distinct customer segments, which can be used to tailor marketing strategies, improve customer service, and optimize product offerings. The project uses relevant customer data to group individuals into clusters with similar purchasing patterns, providing valuable insights for data-driven business decisions.
+
